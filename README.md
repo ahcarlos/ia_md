@@ -19,7 +19,7 @@ y una posición para la _meta_. Para ello hay que:
     * Hacer click sobre la casilla hasta que aparezca la imagen: ![Imagen meta](http://banot.etsii.ull.es/alu4605/images_ia/meta2.png "Meta")
 
 
-El botón **Menú Inicio** permite volver al panel inicial para seleccionar el tamaño de la matriz ssegún la modalidad **Manual** y **Automático**.
+El botón **Menú Inicio** permite volver al panel inicial para seleccionar el tamaño de la matriz según la modalidad **Manual** y **Automático**.
 
 El botón **A*** llevará a cabo el algoritmo A* de tal manera que se encontrará el camino de menor coste entre el coche y la meta. 
 (Se pintará en rojo dicho camino encontrado). Si no se encuentra dicho camino porque no es accesible, saldrá un mensaje que lo indica.
