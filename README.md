@@ -13,7 +13,7 @@ Una vez  tenga el panel de la matriz generado, hay que elegir una posición para
 y una posición para la _meta_. Para ello hay que:
 
 1. Identificar la casilla deseada para el coche.
-    * Hacer click sobre la casilla hasta que aparezca la imagen: ![Imagen coche](http://banot.etsii.ull.es/alu4605/images_ia/coche2.png "Coche")
+    * Hacer click sobre la casilla hasta que aparezca la imagen: ![Imagen coche](http://banot.etsii.ull.es/alu4605/images_ia/coche3.png "Coche")
 
 2. Identificar la casilla deseada para la meta.
     * Hacer click sobre la casilla hasta que aparezca la imagen: ![Imagen meta](http://banot.etsii.ull.es/alu4605/images_ia/meta2.png "Meta")
