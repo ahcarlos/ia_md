@@ -16,7 +16,7 @@ y una posición para la _meta_. Para ello hay que:
     * Hacer click sobre la casilla hasta que aparezca la imagen: ![Imagen coche](http://banot.etsii.ull.es/alu4605/images_ia/coche3.png "Coche")
 
 2. Identificar la casilla deseada para la meta.
-    * Hacer click sobre la casilla hasta que aparezca la imagen: ![Imagen meta](http://banot.etsii.ull.es/alu4605/images_ia/meta2.png "Meta")
+    * Hacer click sobre la casilla hasta que aparezca la imagen: ![Imagen meta](http://banot.etsii.ull.es/alu4605/images_ia/meta3.png "Meta")
 
 
 El botón **Menú Inicio** permite volver al panel inicial para seleccionar el tamaño de la matriz según la modalidad **Manual** y **Automático**.
