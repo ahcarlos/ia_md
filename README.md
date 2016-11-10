@@ -3,7 +3,9 @@
 
 
 Al ejecutar el archivo, se mostrará un panel con dos botones: **Manual** y **Automático**.
-1. Haciendo click sobre *Manual* se desplegará más abajo dos campos para rellenar con el número de filas
+
+
+1. Haciendo click sobre **Manual** se desplegará más abajo dos campos para rellenar con el número de filas
 y número de columnas deseadas. Además, habrá un campo adicional para especificar el número de pasajeros (en caso de que queramos recoger alguno, en caso contrario poner 0).
 Si hemos especificado un número de pasajeros mayor que 0 en este modo, se mostrará únicamente el botón **A* recogiendo pasajeros**.
 Si introduce en el número de pasajeros un 0, se mostrará únicamente el botón **A**.
